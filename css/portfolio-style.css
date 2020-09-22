@@ -311,6 +311,7 @@ strong {
 .dark-mode h4,
 .dark-mode h5,
 .dark-mode h6,
+.dark-mode ul,
 .dark-mode .color-mode {
   color: #ffffff;
 }
