@@ -341,6 +341,21 @@ strong {
   margin-right: 10px;
 }
 
+.tech-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.tech-row li {
+  padding-right: 1rem;
+  font-size: 1rem;
+}
+
+.tech-row svg {
+  font-size: 1.8rem;
+}
+
 .about-image {
   height: 100%;
   display: flex;
